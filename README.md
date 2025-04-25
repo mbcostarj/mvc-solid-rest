@@ -1,2 +1,2 @@
 # mvc-solid-rest
-REST API com Node.js, usando princípios SOLID.
+REST API Node.js com Express, Prisma (provider = "sqlite"), usando princípios SOLID.
